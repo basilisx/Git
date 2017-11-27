@@ -1,0 +1,11 @@
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe.config
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\bin\Debug\ClientGUI.exe
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\bin\Debug\ClientGUI.pdb
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csprojResolveAssemblyReference.cache
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Form1.resources
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Properties.Resources.resources
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csproj.GenerateResource.Cache
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.csproj.CoreCompileInputs.cache
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.exe
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.pdb
+C:\Users\Tatsura\Desktop\C#\ClientGUI\ClientGUI\obj\Debug\ClientGUI.Game.resources
