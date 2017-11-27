@@ -16,10 +16,9 @@ namespace ClientGUI
     {
         
         public Form1()
-        {
-           
+        {       
             InitializeComponent();
-            
+            txtSummary.Text = "Are you ready for battle? You must defeat the evil known as The Square. Type in 'ready' in the box and click 'Off To Battle'!";
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -44,6 +43,11 @@ namespace ClientGUI
         
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtSummary_TextChanged(object sender, EventArgs e)
         {
 
         }

@@ -30,6 +30,7 @@
         {
             this.txtEnter = new System.Windows.Forms.TextBox();
             this.button1 = new System.Windows.Forms.Button();
+            this.txtSummary = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // txtEnter
@@ -50,11 +51,22 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // txtSummary
+            // 
+            this.txtSummary.Location = new System.Drawing.Point(152, 89);
+            this.txtSummary.Multiline = true;
+            this.txtSummary.Name = "txtSummary";
+            this.txtSummary.ReadOnly = true;
+            this.txtSummary.Size = new System.Drawing.Size(174, 81);
+            this.txtSummary.TabIndex = 2;
+            this.txtSummary.TextChanged += new System.EventHandler(this.txtSummary_TextChanged);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(504, 346);
+            this.Controls.Add(this.txtSummary);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.txtEnter);
             this.Name = "Form1";
@@ -69,6 +81,7 @@
 
         private System.Windows.Forms.TextBox txtEnter;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TextBox txtSummary;
     }
 }
 
